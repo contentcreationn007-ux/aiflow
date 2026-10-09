@@ -1,0 +1,20 @@
+{
+  "name": "aiflow",
+  "version": "0.1.0",
+  "description": "An open-source AI-powered workflow automation platform.",
+  "private": false,
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "keywords": [
+    "ai",
+    "automation",
+    "workflow",
+    "agents",
+    "llm",
+    "open-source"
+  ],
+  "license": "MIT"
+}
